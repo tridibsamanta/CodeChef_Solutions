@@ -1,1 +1,1 @@
-https://www.codechef.com/problems/school
+Link : https://www.codechef.com/problems/school
