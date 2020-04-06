@@ -4,6 +4,6 @@
 
 ***This repository contains my solution to some problems listed on CodeChef***
 
-:link: Find the problems here - https://www.codechef.com/problems/school
+:link: Check out the problems here - https://www.codechef.com/problems/school
 
 ***Contributed with :yellow_heart: by Tridib***
