@@ -4,6 +4,6 @@
 
 ***This repository contains my solution to some problems listed on CodeChef***
 
-:link: [Click here](https://www.codechef.com/problems/school) to get your hands dirty.
+:link: [Click here](https://www.codechef.com/problems/school) to get your hands dirty
 
 ***Contributed with :yellow_heart: by Tridib***
